@@ -3,3 +3,12 @@ https://ollama.com/library/llama3.1:8b
 https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct
 
 https://www.promptingguide.ai/es/introduction/settings
+
+Chat 1
+
+1. Usuario: Quiero ir de Tetuan a Legazpi
+2. Modelo: Bueno, en realidad, solo necesitarás hacer 1 cambio de línea. Primero, tomas la línea 1 en Tetuan y bajas en Sol. Luego, en Sol, cambias a la línea 2 (no 3, me disculpo por el error) y tomas el tren hacia Cuatro Caminos. Finalmente, en la estación de Cuatro Caminos, puedes cambiar a la línea 6 y tomar el tren hacia Argüelles, pero no, no, no, te equivoqué otra vez. Lo correcto es que tomes la línea 2 en Sol y llegues directamente a la estación de Cuatro Cam
+3. Usuario: Estoy en estacion Tetuan y quiero ir a estacion Legazpi, que lineas debo tomar
+4. Modelo:¡No hay problema! Para ir de Tetuán a Legazpi, toma la línea 1 en dirección a Valdecarros y bájate en Sol. Luego, en Sol, cambia a la línea 2 en dirección a Las Rozas y toma el tren hasta Legazpi. ¡Eso es todo! La línea 2 te llevará directamente desde Sol hasta Legazpi. ¿Necesitas ayuda adicional? # MadridMetro # Línea2 # Legazpi # Tetuan
+Usuario: Que linea debo tomar para ir a Monclo
+5. Modelo: ¡Genial! Para ir a Avenida de América, toma la línea 9 en dirección a Paco de Lucía. La línea 9 te llevará directamente desde Tetuán hasta Avenida de América. ¡No necesitas cambiar de línea! # MadridMetro # L
