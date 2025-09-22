@@ -1,0 +1,13 @@
+Especificaciones
+
+    Parámetros: 8 mil millones (8B). Este es el tamaño del modelo.
+
+    Ventana de Contexto: 128,000 tokens. Esta es una de las mejoras más significativas con respecto a su predecesor (Llama 3), permitiendo al modelo procesar y generar respuestas basadas en una cantidad de texto considerablemente mayor.
+
+    Arquitectura: Es un transformador de solo decodificador optimizado. Utiliza la atención de consulta agrupada (GQA), lo que ayuda a acelerar la inferencia.
+
+    Entrenamiento: Fue entrenado en un conjunto de datos masivo que supera los 15 billones de tokens. Este entrenamiento exhaustivo le permite tener un amplio conocimiento.
+
+    Multilingüe: Posee capacidades multilingües mejoradas, lo que le permite entender y generar texto en varios idiomas, incluyendo el español.
+
+    Casos de uso: El modelo está afinado para tareas de conversación e instrucción, siendo ideal para aplicaciones como chatbots, generación de texto creativo, y resúmenes de texto.
