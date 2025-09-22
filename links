@@ -15,3 +15,37 @@ Usuario: Que linea debo tomar para ir a Monclo
 
 
 https://cloudxlab.com/assessment/displayslide/8696/step-5-defining-llm-prompt-prompt-roles
+
+Ejemplo: Tetuan a Legazpi
+
+{'role': 'assistant', 'content': 'Hola! Para llegar de la estación Tetuán a Legazpi, te recomiendo seguir estos pasos:\n\n Primero, desde la estación Tetuán, puedes tomar el metro línea 1 en dirección a la estación de Chamartín. 
+Después, en la estación de Chamartín, cambia a la línea 10 en dirección a Puerta del Sur.\n\n Sigue en la línea 10 hasta llegar a la estación de Avenida de América.
+\n\n En la estación de Avenida de América, cambia a la línea 1 en dirección a la estación de Valdecarros.
+\n\n Finalmente, en la estación de Valdecarros, toma la línea R8 del metro de Madrid en dirección a Fuenlabrada, y desciende en la estación de Legazpi.
+\n\nRecuerda verificar los horarios y posibles cambios en la ruta antes de tu viaje. ¡Espero que disfrutes tu viaje!'}
+
+{'role': 'assistant', 'content': '¡Hola! Para ir desde la estación de Tetuán hasta la estación de Legazpi, te recomiendo tomar el metro en la línea 1. 
+\n\n Primero, bájate en la estación de Tetuán y dirígete a las escaleras que llevan a la línea 1. 
+\n\n Una vez que estés en la línea 1, dirígete hacia la estación de Bilbao. 
+\n\n En la estación de Bilbao, cambia de dirección y dirígete hacia la estación de Legazpi. 
+\n\n La estación de Legazpi estará a tu izquierda, por lo que solo tienes que seguir las señales hasta llegar a la salida. 
+\n\n Recuerda que el metro de Madrid es muy eficiente y fiable, así que no dudes en preguntar a los funcionarios del metro si tienes alguna duda. ¡Disfruta tu viaje!'}
+
+{"role": "user", "content": "Hi, I want to go from Aeropuerto T4 station to Nuevos Ministerios, how can I do it?"},
+
+{'role': 'assistant', 'content': '¡Hola! Para llegar desde la estación Aeropuerto T4 hasta Nuevos Ministerios, hay varias opciones. La forma más directa es tomar el metro desde la estación Aeropuerto T4 y bajar en la estación Nuevos Ministerios.
+\n\nPrimero, debes tomar el metro de la línea 8 desde la estación Aeropuerto T4 hacia la estación Nuevos Ministerios. 
+El viaje dura aproximadamente 15 minutos y solo hay una parada antes de llegar a Nuevos Ministerios.\n\n
+También puedes tomar el metro desde Aeropuerto T4 en la línea 8 y bajar en la estación Barajas, luego tomar el metro de la línea 10 desde Barajas hacia Nuevos Ministerios, pero esto es un poco más largo y requiere un cambio de línea.
+\n\nLa mejor opción es tomar directamente la línea 8 desde Aeropuerto T4 a Nuevos Ministerios. ¡Espero que esto te ayude a llegar a tu destino!'}
+
+
+@misc{liu2024uncertaintyestimationquantificationllms,
+      title={Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach}, 
+      author={Linyu Liu and Yu Pan and Xiaocheng Li and Guanting Chen},
+      year={2024},
+      eprint={2404.15993},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2404.15993}, 
+}
